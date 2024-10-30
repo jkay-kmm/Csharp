@@ -1,0 +1,15 @@
+D:\Workpace\Csharptolearn\Bai09\bin\Debug\net8.0\Bai09.exe
+D:\Workpace\Csharptolearn\Bai09\bin\Debug\net8.0\Bai09.deps.json
+D:\Workpace\Csharptolearn\Bai09\bin\Debug\net8.0\Bai09.runtimeconfig.json
+D:\Workpace\Csharptolearn\Bai09\bin\Debug\net8.0\Bai09.dll
+D:\Workpace\Csharptolearn\Bai09\bin\Debug\net8.0\Bai09.pdb
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.AssemblyInfoInputs.cache
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.AssemblyInfo.cs
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.csproj.CoreCompileInputs.cache
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.sourcelink.json
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.dll
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\refint\Bai09.dll
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.pdb
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\Bai09.genruntimeconfig.cache
+D:\Workpace\Csharptolearn\Bai09\obj\Debug\net8.0\ref\Bai09.dll
