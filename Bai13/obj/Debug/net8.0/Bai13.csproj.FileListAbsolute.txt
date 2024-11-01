@@ -1,0 +1,15 @@
+D:\Workpace\Csharptolearn\Bai13\bin\Debug\net8.0\Bai13.exe
+D:\Workpace\Csharptolearn\Bai13\bin\Debug\net8.0\Bai13.deps.json
+D:\Workpace\Csharptolearn\Bai13\bin\Debug\net8.0\Bai13.runtimeconfig.json
+D:\Workpace\Csharptolearn\Bai13\bin\Debug\net8.0\Bai13.dll
+D:\Workpace\Csharptolearn\Bai13\bin\Debug\net8.0\Bai13.pdb
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.AssemblyInfoInputs.cache
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.AssemblyInfo.cs
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.csproj.CoreCompileInputs.cache
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.sourcelink.json
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.dll
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\refint\Bai13.dll
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.pdb
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\Bai13.genruntimeconfig.cache
+D:\Workpace\Csharptolearn\Bai13\obj\Debug\net8.0\ref\Bai13.dll
